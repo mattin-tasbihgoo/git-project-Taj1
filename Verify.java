@@ -13,10 +13,5 @@ public class Verify {
 
         git.writeInIndex("JavaFileSystem/log.txt");
         git.writeInIndex("JavaFileSystem/notes.txt");
-
-
-
-
-
     }
 }
